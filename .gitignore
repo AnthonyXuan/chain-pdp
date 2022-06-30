@@ -1,3 +1,3 @@
-.svg
-.json
-.txt
+*.svg
+*.json
+*.txt
