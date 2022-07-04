@@ -169,6 +169,6 @@ row_len = 50
 expect_block_cnt = 30
 
 #get_sentence(n_arr, corruption_rate_arr, bassline_arr)
-get_table(n_arr, corruption_rate_arr, bassline_arr)
-#gen_whole_graph(n_arr, expect_block_cnt, corruption_rate_arr)
+#get_table(n_arr, corruption_rate_arr, bassline_arr)
+gen_whole_graph(n_arr, expect_block_cnt, corruption_rate_arr)
 #plot_whole_graph()
