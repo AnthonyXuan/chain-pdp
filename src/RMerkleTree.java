@@ -3,8 +3,6 @@ import java.security.MessageDigest;
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.xml.crypto.dsig.keyinfo.RetrievalMethod;
-
 public class RMerkleTree implements Cloneable{
     private InternNode root;
 
